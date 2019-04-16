@@ -1,0 +1,7 @@
+{
+  "permissionsplugin": {
+    "supportsPkg" : ["*"],
+    "interposesOn": ["contacts"],
+    "activateOnInstall" : false
+  }
+}
